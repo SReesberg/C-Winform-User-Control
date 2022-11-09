@@ -1,0 +1,22 @@
+C:\Users\stefa\OneDrive\Desktop\Exam run 2\Exercise2RobotControl\bin\Debug\Exercise2RobotControl.exe.config
+C:\Users\stefa\OneDrive\Desktop\Exam run 2\Exercise2RobotControl\bin\Debug\Exercise2RobotControl.exe
+C:\Users\stefa\OneDrive\Desktop\Exam run 2\Exercise2RobotControl\bin\Debug\Exercise2RobotControl.pdb
+C:\Users\stefa\OneDrive\Desktop\Exam run 2\Exercise2RobotControl\obj\Debug\Exercise2RobotControl.csproj.AssemblyReference.cache
+C:\Users\stefa\OneDrive\Desktop\Exam run 2\Exercise2RobotControl\obj\Debug\Exercise2RobotControl.Properties.Resources.resources
+C:\Users\stefa\OneDrive\Desktop\Exam run 2\Exercise2RobotControl\obj\Debug\Exercise2RobotControl.Robot.resources
+C:\Users\stefa\OneDrive\Desktop\Exam run 2\Exercise2RobotControl\obj\Debug\Exercise2RobotControl.csproj.GenerateResource.cache
+C:\Users\stefa\OneDrive\Desktop\Exam run 2\Exercise2RobotControl\obj\Debug\Exercise2RobotControl.csproj.CoreCompileInputs.cache
+C:\Users\stefa\OneDrive\Desktop\Exam run 2\Exercise2RobotControl\obj\Debug\Exercise2RobotControl.exe
+C:\Users\stefa\OneDrive\Desktop\Exam run 2\Exercise2RobotControl\obj\Debug\Exercise2RobotControl.pdb
+C:\Users\stefa\OneDrive\Desktop\Exam run 2\Exercise2RobotControl\obj\Debug\Exercise2RobotControl.MainForm.resources
+C:\Users\stefa\OneDrive\Desktop\C# Stuff\Exam Prep\Exam run 2\Exercise2RobotControl\bin\Debug\Exercise2RobotControl.exe.config
+C:\Users\stefa\OneDrive\Desktop\C# Stuff\Exam Prep\Exam run 2\Exercise2RobotControl\bin\Debug\Exercise2RobotControl.exe
+C:\Users\stefa\OneDrive\Desktop\C# Stuff\Exam Prep\Exam run 2\Exercise2RobotControl\bin\Debug\Exercise2RobotControl.pdb
+C:\Users\stefa\OneDrive\Desktop\C# Stuff\Exam Prep\Exam run 2\Exercise2RobotControl\obj\Debug\Exercise2RobotControl.csproj.AssemblyReference.cache
+C:\Users\stefa\OneDrive\Desktop\C# Stuff\Exam Prep\Exam run 2\Exercise2RobotControl\obj\Debug\Exercise2RobotControl.MainForm.resources
+C:\Users\stefa\OneDrive\Desktop\C# Stuff\Exam Prep\Exam run 2\Exercise2RobotControl\obj\Debug\Exercise2RobotControl.Properties.Resources.resources
+C:\Users\stefa\OneDrive\Desktop\C# Stuff\Exam Prep\Exam run 2\Exercise2RobotControl\obj\Debug\Exercise2RobotControl.Robot.resources
+C:\Users\stefa\OneDrive\Desktop\C# Stuff\Exam Prep\Exam run 2\Exercise2RobotControl\obj\Debug\Exercise2RobotControl.csproj.GenerateResource.cache
+C:\Users\stefa\OneDrive\Desktop\C# Stuff\Exam Prep\Exam run 2\Exercise2RobotControl\obj\Debug\Exercise2RobotControl.csproj.CoreCompileInputs.cache
+C:\Users\stefa\OneDrive\Desktop\C# Stuff\Exam Prep\Exam run 2\Exercise2RobotControl\obj\Debug\Exercise2RobotControl.exe
+C:\Users\stefa\OneDrive\Desktop\C# Stuff\Exam Prep\Exam run 2\Exercise2RobotControl\obj\Debug\Exercise2RobotControl.pdb
